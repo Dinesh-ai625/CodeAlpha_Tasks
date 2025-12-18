@@ -1,0 +1,8 @@
+Main Packages
+1)customtkinter
+2)requests
+
+Specified Versions
+1)customtkinter==6.5.1
+2)requests==2.31.0
+
